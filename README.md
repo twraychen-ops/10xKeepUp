@@ -85,6 +85,21 @@ Contributions and translations welcome. If it helps, please ⭐ the repo.
 
 ---
 
+## 👨‍💻 關於作者 About the Author
+
+這個專案由 **Ray Chen** 製作——一位專注於**數位學習開發與教學設計**的自由工作者，
+擅長 Articulate Storyline 360、SCORM/xAPI 與情境式教學設計，
+相信「好的系統，能讓學習自己跑起來」。
+
+做這個工具，是想把同樣的系統思維，用在陪伴正在準備學測的孩子身上。
+
+- 🎨 **Storyline 作品集**：[storyline360-demo001.pages.dev](https://storyline360-demo001.pages.dev)
+- 💼 **LinkedIn**：[linkedin.com/in/ray-chen-a79133aa](https://www.linkedin.com/in/ray-chen-a79133aa)
+
+*A free tool by an eLearning developer who believes good systems let learning run itself.*
+
+---
+
 ## 📜 授權 License
 
 MIT License — 自由下載、分享、修改。若對你有幫助，歡迎給顆 ⭐ 讓更多考生看到。
